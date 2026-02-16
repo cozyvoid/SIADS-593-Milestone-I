@@ -1,0 +1,103 @@
+state,race,deaths_total,population_total,mortality_rate_per_100k
+Alabama,Black or African American,53.0,4071979.0,1.3015784216961825
+Alabama,White,40.0,10486407.0,0.3814461902918702
+Alaska,Black or African American,0.0,80437.0,0.0
+Alaska,White,0.0,1413537.0,0.0
+Arizona,Black or African American,0.0,1225769.0,0.0
+Arizona,White,61.0,18049987.0,0.33795038190332216
+Arkansas,Black or African American,10.0,1429543.0,0.6995242535551571
+Arkansas,White,31.0,7177192.0,0.43192379415236487
+California,Black or African American,47.0,7608164.0,0.6177574510749242
+California,White,155.0,82937215.0,0.18688835886278554
+Colorado,Black or African American,0.0,831442.0,0.0
+Colorado,White,42.0,15111874.0,0.2779271452369177
+Connecticut,Black or African American,0.0,1398118.0,0.0
+Connecticut,White,11.0,8505861.0,0.1293225929744208
+Delaware,Black or African American,0.0,727265.0,0.0
+Delaware,White,0.0,2076199.0,0.0
+District of Columbia,Black or African American,0.0,910697.0,0.0
+District of Columbia,White,0.0,934394.0,0.0
+Florida,Black or African American,107.0,11313644.0,0.9457607115797527
+Florida,White,114.0,51167398.0,0.2227981184425286
+Georgia,Black or African American,127.0,10834019.0,1.1722334989443899
+Georgia,White,81.0,19328439.0,0.419071607386401
+Hawaii,Black or African American,0.0,93914.0,0.0
+Hawaii,White,0.0,1088891.0,0.0
+Idaho,Black or African American,0.0,56434.0,0.0
+Idaho,White,0.0,5376685.0,0.0
+Illinois,Black or African American,49.0,5554184.0,0.8822178019309407
+Illinois,White,69.0,28781681.0,0.23973582363031543
+Indiana,Black or African American,0.0,2114508.0,0.0
+Indiana,White,76.0,17213306.0,0.44151890403853855
+Iowa,Black or African American,0.0,423709.0,0.0
+Iowa,White,16.0,8625026.0,0.18550668716824736
+Kansas,Black or African American,0.0,546704.0,0.0
+Kansas,White,0.0,7568847.0,0.0
+Kentucky,Black or African American,0.0,1176292.0,0.0
+Kentucky,White,51.0,11769151.0,0.4333362703902771
+Louisiana,Black or African American,58.0,4520704.0,1.2829860127980068
+Louisiana,White,18.0,8616490.0,0.20890176858558415
+Maine,Black or African American,0.0,82177.0,0.0
+Maine,White,0.0,3901068.0,0.0
+Maryland,Black or African American,28.0,5839987.0,0.479453122070306
+Maryland,White,23.0,10625627.0,0.21645781467766562
+Massachusetts,Black or African American,0.0,1987028.0,0.0
+Massachusetts,White,23.0,16653519.0,0.13810894862521247
+Michigan,Black or African American,28.0,4254156.0,0.6581799068957509
+Michigan,White,54.0,23740521.0,0.22745920361225433
+Minnesota,Black or African American,0.0,1311476.0,0.0
+Minnesota,White,15.0,14177323.0,0.10580276685520955
+Mississippi,Black or African American,48.0,3341840.0,1.436334474421277
+Mississippi,White,15.0,5190164.0,0.2890082086038129
+Missouri,Black or African American,12.0,2177836.0,0.5510056771951607
+Missouri,White,54.0,15296535.0,0.35302112537251085
+Montana,Black or African American,0.0,21157.0,0.0
+Montana,White,0.0,2981093.0,0.0
+Nebraska,Black or African American,0.0,318296.0,0.0
+Nebraska,White,0.0,5169956.0,0.0
+Nevada,Black or African American,0.0,1030158.0,0.0
+Nevada,White,0.0,6861186.0,0.0
+New Hampshire,Black or African American,0.0,83556.0,0.0
+New Hampshire,White,0.0,3877293.0,0.0
+New Jersey,Black or African American,41.0,4292565.0,0.9551398755755592
+New Jersey,White,62.0,19684297.0,0.3149718783454649
+New Mexico,Black or African American,0.0,175487.0,0.0
+New Mexico,White,14.0,5142351.0,0.27224901606288643
+New York,Black or African American,93.0,10448220.0,0.8901037688716354
+New York,White,114.0,40621578.0,0.28063902391975026
+North Carolina,Black or African American,93.0,7116024.0,1.3069095888378117
+North Carolina,White,111.0,22437053.0,0.49471737665369864
+North Dakota,Black or African American,0.0,84732.0,0.0
+North Dakota,White,0.0,2024444.0,0.0
+Ohio,Black or African American,55.0,4708399.0,1.1681253011904897
+Ohio,White,108.0,28573231.0,0.3779761553742382
+Oklahoma,Black or African American,0.0,952535.0,0.0
+Oklahoma,White,23.0,8807714.0,0.26113472803499294
+Oregon,Black or African American,0.0,297102.0,0.0
+Oregon,White,28.0,10924246.0,0.2563105957152558
+Pennsylvania,Black or African American,37.0,4757202.0,0.7777681082283242
+Pennsylvania,White,82.0,31423424.0,0.26095183007427836
+Rhode Island,Black or African American,0.0,297339.0,0.0
+Rhode Island,White,0.0,2718572.0,0.0
+South Carolina,Black or African American,32.0,4165170.0,0.7682759647265297
+South Carolina,White,20.0,10907964.0,0.18335227362319861
+South Dakota,Black or African American,0.0,69511.0,0.0
+South Dakota,White,0.0,2293869.0,0.0
+Tennessee,Black or African American,56.0,3542501.0,1.5808040703446518
+Tennessee,White,90.0,16564018.0,0.5433464271772706
+Texas,Black or African American,120.0,12073417.0,0.9939191199972633
+Texas,White,354.0,69690423.0,0.5079607566738403
+Utah,Black or African American,0.0,158455.0,0.0
+Utah,White,13.0,9125426.0,0.142459102731204
+Vermont,Black or African American,0.0,29668.0,0.0
+Vermont,White,0.0,1820435.0,0.0
+Virginia,Black or African American,60.0,5211719.0,1.1512516311796548
+Virginia,White,84.0,17844215.0,0.4707407975077637
+Washington,Black or African American,0.0,1070247.0,0.0
+Washington,White,30.0,17941456.0,0.1672105095595363
+West Virginia,Black or African American,0.0,199796.0,0.0
+West Virginia,White,0.0,4951311.0,0.0
+Wisconsin,Black or African American,0.0,1181454.0,0.0
+Wisconsin,White,38.0,15320367.0,0.24803583360633594
+Wyoming,Black or African American,0.0,21297.0,0.0
+Wyoming,White,0.0,1610230.0,0.0

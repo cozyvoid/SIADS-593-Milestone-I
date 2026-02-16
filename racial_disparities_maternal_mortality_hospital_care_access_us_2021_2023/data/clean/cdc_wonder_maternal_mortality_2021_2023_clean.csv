@@ -1,0 +1,307 @@
+state,year,race,deaths,population
+Alabama,2021.0,Black or African American,21.0,1353084.0
+Alabama,2021.0,White,30.0,3472742.0
+Alabama,2022.0,Black or African American,16.0,1358620.0
+Alabama,2022.0,White,,3494189.0
+Alabama,2023.0,Black or African American,16.0,1360275.0
+Alabama,2023.0,White,10.0,3519476.0
+Alaska,2021.0,Black or African American,0.0,26689.0
+Alaska,2021.0,White,,472939.0
+Alaska,2022.0,Black or African American,0.0,26837.0
+Alaska,2022.0,White,,470101.0
+Alaska,2023.0,Black or African American,,26911.0
+Alaska,2023.0,White,,470497.0
+Arizona,2021.0,Black or African American,,395177.0
+Arizona,2021.0,White,23.0,5969037.0
+Arizona,2022.0,Black or African American,,407994.0
+Arizona,2022.0,White,20.0,6024591.0
+Arizona,2023.0,Black or African American,,422598.0
+Arizona,2023.0,White,18.0,6056359.0
+Arkansas,2021.0,Black or African American,,475018.0
+Arkansas,2021.0,White,21.0,2379596.0
+Arkansas,2022.0,Black or African American,,476278.0
+Arkansas,2022.0,White,10.0,2391860.0
+Arkansas,2023.0,Black or African American,10.0,478247.0
+Arkansas,2023.0,White,,2405736.0
+California,2021.0,Black or African American,19.0,2548114.0
+California,2021.0,White,76.0,27902177.0
+California,2022.0,Black or African American,13.0,2531957.0
+California,2022.0,White,40.0,27607325.0
+California,2023.0,Black or African American,15.0,2528093.0
+California,2023.0,White,39.0,27427713.0
+Colorado,2021.0,Black or African American,,271768.0
+Colorado,2021.0,White,12.0,5027045.0
+Colorado,2022.0,Black or African American,,276966.0
+Colorado,2022.0,White,19.0,5032844.0
+Colorado,2023.0,Black or African American,,282708.0
+Colorado,2023.0,White,11.0,5051985.0
+Connecticut,2021.0,Black or African American,,457331.0
+Connecticut,2021.0,White,,2842528.0
+Connecticut,2022.0,Black or African American,,467161.0
+Connecticut,2022.0,White,11.0,2841487.0
+Connecticut,2023.0,Black or African American,,473626.0
+Connecticut,2023.0,White,,2821846.0
+Delaware,2021.0,Black or African American,,236621.0
+Delaware,2021.0,White,,686599.0
+Delaware,2022.0,Black or African American,0.0,242210.0
+Delaware,2022.0,White,,692506.0
+Delaware,2023.0,Black or African American,0.0,248434.0
+Delaware,2023.0,White,,697094.0
+District of Columbia,2021.0,Black or African American,,306925.0
+District of Columbia,2021.0,White,,307274.0
+District of Columbia,2022.0,Black or African American,,302568.0
+District of Columbia,2022.0,White,,310692.0
+District of Columbia,2023.0,Black or African American,,301204.0
+District of Columbia,2023.0,White,,316428.0
+Florida,2021.0,Black or African American,58.0,3710894.0
+Florida,2021.0,White,49.0,16749416.0
+Florida,2022.0,Black or African American,20.0,3773336.0
+Florida,2022.0,White,34.0,17084651.0
+Florida,2023.0,Black or African American,29.0,3829414.0
+Florida,2023.0,White,31.0,17333331.0
+Georgia,2021.0,Black or African American,57.0,3558724.0
+Georgia,2021.0,White,36.0,6418207.0
+Georgia,2022.0,Black or African American,31.0,3613543.0
+Georgia,2022.0,White,27.0,6436683.0
+Georgia,2023.0,Black or African American,39.0,3661752.0
+Georgia,2023.0,White,18.0,6473549.0
+Hawaii,2021.0,Black or African American,0.0,31000.0
+Hawaii,2021.0,White,0.0,364116.0
+Hawaii,2022.0,Black or African American,0.0,31516.0
+Hawaii,2022.0,White,0.0,363260.0
+Hawaii,2023.0,Black or African American,0.0,31398.0
+Hawaii,2023.0,White,,361515.0
+Idaho,2021.0,Black or African American,,17786.0
+Idaho,2021.0,White,,1764099.0
+Idaho,2022.0,Black or African American,0.0,18882.0
+Idaho,2022.0,White,,1795997.0
+Idaho,2023.0,Black or African American,,19766.0
+Idaho,2023.0,White,,1816589.0
+Illinois,2021.0,Black or African American,18.0,1866607.0
+Illinois,2021.0,White,30.0,9668380.0
+Illinois,2022.0,Black or African American,20.0,1851472.0
+Illinois,2022.0,White,17.0,9572606.0
+Illinois,2023.0,Black or African American,11.0,1836105.0
+Illinois,2023.0,White,22.0,9540695.0
+Indiana,2021.0,Black or African American,,695117.0
+Indiana,2021.0,White,31.0,5732894.0
+Indiana,2022.0,Black or African American,,704235.0
+Indiana,2022.0,White,23.0,5736944.0
+Indiana,2023.0,Black or African American,,715156.0
+Indiana,2023.0,White,22.0,5743468.0
+Iowa,2021.0,Black or African American,,137863.0
+Iowa,2021.0,White,16.0,2875490.0
+Iowa,2022.0,Black or African American,,141178.0
+Iowa,2022.0,White,,2874863.0
+Iowa,2023.0,Black or African American,,144668.0
+Iowa,2023.0,White,,2874673.0
+Kansas,2021.0,Black or African American,,181676.0
+Kansas,2021.0,White,,2522698.0
+Kansas,2022.0,Black or African American,,182656.0
+Kansas,2022.0,White,,2521658.0
+Kansas,2023.0,Black or African American,0.0,182372.0
+Kansas,2023.0,White,,2524491.0
+Kentucky,2021.0,Black or African American,,389241.0
+Kentucky,2021.0,White,20.0,3926400.0
+Kentucky,2022.0,Black or African American,,391006.0
+Kentucky,2022.0,White,11.0,3920114.0
+Kentucky,2023.0,Black or African American,,396045.0
+Kentucky,2023.0,White,20.0,3922637.0
+Louisiana,2021.0,Black or African American,26.0,1524944.0
+Louisiana,2021.0,White,18.0,2886564.0
+Louisiana,2022.0,Black or African American,14.0,1504750.0
+Louisiana,2022.0,White,,2868945.0
+Louisiana,2023.0,Black or African American,18.0,1491010.0
+Louisiana,2023.0,White,,2860981.0
+Maine,2021.0,Black or African American,,24915.0
+Maine,2021.0,White,,1292011.0
+Maine,2022.0,Black or African American,0.0,27405.0
+Maine,2022.0,White,,1301207.0
+Maine,2023.0,Black or African American,0.0,29857.0
+Maine,2023.0,White,,1307850.0
+Maryland,2021.0,Black or African American,13.0,1937665.0
+Maryland,2021.0,White,13.0,3560883.0
+Maryland,2022.0,Black or African American,15.0,1951658.0
+Maryland,2022.0,White,10.0,3530719.0
+Maryland,2023.0,Black or African American,,1950664.0
+Maryland,2023.0,White,,3534025.0
+Massachusetts,2021.0,Black or African American,,650915.0
+Massachusetts,2021.0,White,11.0,5576809.0
+Massachusetts,2022.0,Black or African American,,660810.0
+Massachusetts,2022.0,White,12.0,5546349.0
+Massachusetts,2023.0,Black or African American,,675303.0
+Massachusetts,2023.0,White,,5530361.0
+Michigan,2021.0,Black or African American,12.0,1419656.0
+Michigan,2021.0,White,20.0,7935511.0
+Michigan,2022.0,Black or African American,16.0,1418343.0
+Michigan,2022.0,White,18.0,7906333.0
+Michigan,2023.0,Black or African American,,1416157.0
+Michigan,2023.0,White,16.0,7898677.0
+Minnesota,2021.0,Black or African American,0.0,423656.0
+Minnesota,2021.0,White,15.0,4735626.0
+Minnesota,2022.0,Black or African American,,437333.0
+Minnesota,2022.0,White,,4722046.0
+Minnesota,2023.0,Black or African American,,450487.0
+Minnesota,2023.0,White,,4719651.0
+Mississippi,2021.0,Black or African American,23.0,1119623.0
+Mississippi,2021.0,White,15.0,1733991.0
+Mississippi,2022.0,Black or African American,12.0,1110533.0
+Mississippi,2022.0,White,,1729691.0
+Mississippi,2023.0,Black or African American,13.0,1111684.0
+Mississippi,2023.0,White,,1726482.0
+Missouri,2021.0,Black or African American,,727065.0
+Missouri,2021.0,White,27.0,5095927.0
+Missouri,2022.0,Black or African American,,725317.0
+Missouri,2022.0,White,14.0,5095625.0
+Missouri,2023.0,Black or African American,12.0,725454.0
+Missouri,2023.0,White,13.0,5104983.0
+Montana,2021.0,Black or African American,0.0,6894.0
+Montana,2021.0,White,,980015.0
+Montana,2022.0,Black or African American,0.0,6993.0
+Montana,2022.0,White,,996179.0
+Montana,2023.0,Black or African American,0.0,7270.0
+Montana,2023.0,White,,1004899.0
+Nebraska,2021.0,Black or African American,,104653.0
+Nebraska,2021.0,White,,1721884.0
+Nebraska,2022.0,Black or African American,,105601.0
+Nebraska,2022.0,White,,1721883.0
+Nebraska,2023.0,Black or African American,,108042.0
+Nebraska,2023.0,White,,1726189.0
+Nevada,2021.0,Black or African American,,334455.0
+Nevada,2021.0,White,,2287445.0
+Nevada,2022.0,Black or African American,,344357.0
+Nevada,2022.0,White,,2290214.0
+Nevada,2023.0,Black or African American,,351346.0
+Nevada,2023.0,White,,2283527.0
+New Hampshire,2021.0,Black or African American,0.0,26779.0
+New Hampshire,2021.0,White,,1288649.0
+New Hampshire,2022.0,Black or African American,,27993.0
+New Hampshire,2022.0,White,,1291413.0
+New Hampshire,2023.0,Black or African American,0.0,28784.0
+New Hampshire,2023.0,White,,1297231.0
+New Jersey,2021.0,Black or African American,13.0,1419801.0
+New Jersey,2021.0,White,28.0,6593546.0
+New Jersey,2022.0,Black or African American,14.0,1429864.0
+New Jersey,2022.0,White,24.0,6549769.0
+New Jersey,2023.0,Black or African American,14.0,1442900.0
+New Jersey,2023.0,White,10.0,6540982.0
+New Mexico,2021.0,Black or African American,0.0,57350.0
+New Mexico,2021.0,White,14.0,1720615.0
+New Mexico,2022.0,Black or African American,0.0,58095.0
+New Mexico,2022.0,White,,1714851.0
+New Mexico,2023.0,Black or African American,0.0,60042.0
+New Mexico,2023.0,White,,1706885.0
+New York,2021.0,Black or African American,36.0,3499231.0
+New York,2021.0,White,44.0,13711327.0
+New York,2022.0,Black or African American,30.0,3491532.0
+New York,2022.0,White,42.0,13501459.0
+New York,2023.0,Black or African American,27.0,3457457.0
+New York,2023.0,White,28.0,13408792.0
+North Carolina,2021.0,Black or African American,34.0,2349731.0
+North Carolina,2021.0,White,46.0,7392234.0
+North Carolina,2022.0,Black or African American,31.0,2373876.0
+North Carolina,2022.0,White,34.0,7480293.0
+North Carolina,2023.0,Black or African American,28.0,2392417.0
+North Carolina,2023.0,White,31.0,7564526.0
+North Dakota,2021.0,Black or African American,0.0,27157.0
+North Dakota,2021.0,White,,671664.0
+North Dakota,2022.0,Black or African American,0.0,28128.0
+North Dakota,2022.0,White,,675085.0
+North Dakota,2023.0,Black or African American,0.0,29447.0
+North Dakota,2023.0,White,0.0,677695.0
+Ohio,2021.0,Black or African American,27.0,1560246.0
+Ohio,2021.0,White,47.0,9560342.0
+Ohio,2022.0,Black or African American,16.0,1565976.0
+Ohio,2022.0,White,39.0,9509945.0
+Ohio,2023.0,Black or African American,12.0,1582177.0
+Ohio,2023.0,White,22.0,9502944.0
+Oklahoma,2021.0,Black or African American,,312869.0
+Oklahoma,2021.0,White,12.0,2917360.0
+Oklahoma,2022.0,Black or African American,,318339.0
+Oklahoma,2022.0,White,11.0,2936122.0
+Oklahoma,2023.0,Black or African American,,321327.0
+Oklahoma,2023.0,White,,2954232.0
+Oregon,2021.0,Black or African American,,96520.0
+Oregon,2021.0,White,14.0,3659596.0
+Oregon,2022.0,Black or African American,,99222.0
+Oregon,2022.0,White,14.0,3640385.0
+Oregon,2023.0,Black or African American,0.0,101360.0
+Oregon,2023.0,White,,3624265.0
+Pennsylvania,2021.0,Black or African American,13.0,1586231.0
+Pennsylvania,2021.0,White,30.0,10502382.0
+Pennsylvania,2022.0,Black or African American,13.0,1582451.0
+Pennsylvania,2022.0,White,32.0,10479634.0
+Pennsylvania,2023.0,Black or African American,11.0,1588520.0
+Pennsylvania,2023.0,White,20.0,10441408.0
+Rhode Island,2021.0,Black or African American,0.0,96864.0
+Rhode Island,2021.0,White,,910242.0
+Rhode Island,2022.0,Black or African American,,99051.0
+Rhode Island,2022.0,White,,905102.0
+Rhode Island,2023.0,Black or African American,0.0,101424.0
+Rhode Island,2023.0,White,,903228.0
+South Carolina,2021.0,Black or African American,17.0,1383427.0
+South Carolina,2021.0,White,20.0,3561602.0
+South Carolina,2022.0,Black or African American,15.0,1386941.0
+South Carolina,2022.0,White,,3637779.0
+South Carolina,2023.0,Black or African American,,1394802.0
+South Carolina,2023.0,White,,3708583.0
+South Dakota,2021.0,Black or African American,,22058.0
+South Dakota,2021.0,White,,753542.0
+South Dakota,2022.0,Black or African American,0.0,23377.0
+South Dakota,2022.0,White,,766469.0
+South Dakota,2023.0,Black or African American,0.0,24076.0
+South Dakota,2023.0,White,0.0,773858.0
+Tennessee,2021.0,Black or African American,22.0,1184041.0
+Tennessee,2021.0,White,40.0,5457887.0
+Tennessee,2022.0,Black or African American,17.0,1180864.0
+Tennessee,2022.0,White,29.0,5521401.0
+Tennessee,2023.0,Black or African American,17.0,1177596.0
+Tennessee,2023.0,White,21.0,5584730.0
+Texas,2021.0,Black or African American,50.0,3894860.0
+Texas,2021.0,White,155.0,23012250.0
+Texas,2022.0,Black or African American,35.0,4020772.0
+Texas,2022.0,White,115.0,23242116.0
+Texas,2023.0,Black or African American,35.0,4157785.0
+Texas,2023.0,White,84.0,23436057.0
+Utah,2021.0,Black or African American,,50597.0
+Utah,2021.0,White,13.0,3013038.0
+Utah,2022.0,Black or African American,0.0,52777.0
+Utah,2022.0,White,,3043600.0
+Utah,2023.0,Black or African American,,55081.0
+Utah,2023.0,White,,3068788.0
+Vermont,2021.0,Black or African American,0.0,9393.0
+Vermont,2021.0,White,0.0,607082.0
+Vermont,2022.0,Black or African American,0.0,9830.0
+Vermont,2022.0,White,0.0,607189.0
+Vermont,2023.0,Black or African American,0.0,10445.0
+Vermont,2023.0,White,0.0,606164.0
+Virginia,2021.0,Black or African American,24.0,1729436.0
+Virginia,2021.0,White,35.0,5942209.0
+Virginia,2022.0,Black or African American,25.0,1737910.0
+Virginia,2022.0,White,31.0,5947332.0
+Virginia,2023.0,Black or African American,11.0,1744373.0
+Virginia,2023.0,White,18.0,5954674.0
+Washington,2021.0,Black or African American,,348170.0
+Washington,2021.0,White,15.0,5995925.0
+Washington,2022.0,Black or African American,,357430.0
+Washington,2022.0,White,,5982306.0
+Washington,2023.0,Black or African American,,364647.0
+Washington,2023.0,White,15.0,5963225.0
+West Virginia,2021.0,Black or African American,,66240.0
+West Virginia,2021.0,White,,1660372.0
+West Virginia,2022.0,Black or African American,,66210.0
+West Virginia,2022.0,White,,1648034.0
+West Virginia,2023.0,Black or African American,0.0,67346.0
+West Virginia,2023.0,White,,1642905.0
+Wisconsin,2021.0,Black or African American,,398693.0
+Wisconsin,2021.0,White,11.0,5106775.0
+Wisconsin,2022.0,Black or African American,,390428.0
+Wisconsin,2022.0,White,15.0,5103755.0
+Wisconsin,2023.0,Black or African American,,392333.0
+Wisconsin,2023.0,White,12.0,5109837.0
+Wyoming,2021.0,Black or African American,0.0,7087.0
+Wyoming,2021.0,White,,534669.0
+Wyoming,2022.0,Black or African American,,7162.0
+Wyoming,2022.0,White,,536573.0
+Wyoming,2023.0,Black or African American,0.0,7048.0
+Wyoming,2023.0,White,,538988.0
