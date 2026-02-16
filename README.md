@@ -1,13 +1,209 @@
-# SIADS-593-Milestone-I
-# 💫 About Me:
-🔭 I’m currently working on a project for a graduate course mini capstone.<br>🤝 I’m looking for help with basic python etiquette<br>🌱 I’m currently studying Applied Data Science at the University of Michigan's School of Information.
+---
 
+# Racial Disparities in Maternal Mortality and Hospital Care Access (2021–2023)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smslzr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samsalazar13) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samanthaalyssa13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cozyvoid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samanthaalyssa13@gmail.com) 
+## Project Overview
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+This project investigates racial disparities in maternal mortality across U.S. states and evaluates whether variation in hospital characteristics and care access may be associated with the magnitude of those disparities.
 
+The analysis integrates:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* **CDC WONDER maternal mortality data (2021–2023)**
+* **CMS Hospital General Information data (October 2021–December 2023)**
+
+The unit of analysis is **state–year (2021–2023)**.
+
+---
+
+## Research Question
+
+Are racial disparities in maternal mortality associated with differences in hospital characteristics and maternal care access across U.S. states?
+
+---
+
+## Repository Structure
+
+```
+project_root/
+│
+├── data/
+│   ├── raw/
+│   │   ├── cdc_wonder_maternal_mortality_2018_2023_raw.csv
+│   │   ├── Hospital_General_Information_2021.csv
+│   │   ├── Hospital_General_Information_2022.csv
+│   │   └── Hospital_General_Information_2023.csv
+│   │
+│   ├── clean/
+│   │   ├── cdc_wonder_maternal_mortality_2021_2023_clean.csv
+│   │   ├── hospitals_clean_2021_2023.csv
+│   │
+│   ├── analysis/
+│   │   ├── state_race_mortality_rates_2021_2023.csv
+│   │   └── state_maternal_racial_disparities_2021_2023.csv
+│
+├── notebooks/
+│   ├── 01_cdc_wonder_maternal_mortality_cleaning_2021_2023_final.ipynb
+│   ├── 01_clean_hospital_general_information_final.ipynb
+│   └── cdc_wonder_hospital_info_merged_visualizations.ipynb
+│
+├── documentation/
+│   ├── cdc_wonder_data_extraction_notes.md
+│   └── hospital_data_extraction_and_cleaning_notes.md
+│
+└── README.md
+```
+
+---
+
+## Data Sources
+
+### 1. CDC WONDER – Maternal Mortality
+
+* Dataset: Multiple Cause of Death (Final)
+* ICD-10 codes: O00–O99 (Pregnancy, childbirth, puerperium)
+* Race classification: Single Race 6 (Black, White)
+* Years: 2021–2023
+* Aggregation level: State
+
+Detailed extraction procedure is documented in:
+**cdc_wonder_data_extraction_notes.md** 
+
+---
+
+### 2. CMS Hospital General Information
+
+* Source: Centers for Medicare & Medicaid Services
+* Reporting cycle: Quarterly
+* Data used: October 2021 – December 2023
+* Structure: Hospital–year observations
+
+Extraction and cleaning process documented in:
+**hospital_data_extraction_and_cleaning_notes.md** 
+
+---
+
+## Data Processing Pipeline
+
+### Maternal Mortality Data
+
+1. Extract deaths and population counts by state and race
+2. Convert suppressed counts to missing values
+3. Aggregate across years (2021–2023)
+4. Calculate crude mortality rates
+5. Compute disparity metrics:
+
+   * Absolute Gap
+   * Relative Ratio
+
+### Hospital Data
+
+1. Concatenate yearly CMS hospital files
+2. Standardize column names
+3. Normalize binary indicators (Yes/No → 1/0)
+4. Convert ratings to numeric
+5. Aggregate hospital metrics to state–year level:
+
+   * Number of hospitals
+   * % with emergency services
+   * % with EHR interoperability
+   * Average hospital rating
+
+### Final Dataset
+
+Maternal mortality and hospital metrics were merged by:
+
+* `state`
+* `year`
+
+---
+
+## Derived Variables
+
+| Variable        | Description                                  |
+| --------------- | -------------------------------------------- |
+| rate_black      | Black maternal mortality rate per 100,000    |
+| rate_white      | White maternal mortality rate per 100,000    |
+| mortality_gap   | Absolute disparity (Black − White)           |
+| mortality_ratio | Relative disparity (Black / White)           |
+| pct_emergency   | Share of hospitals with emergency services   |
+| pct_ehr         | Share of hospitals with EHR interoperability |
+| avg_rating      | Average CMS overall hospital rating          |
+
+---
+
+## Notebooks
+
+### 01_cdc_wonder_maternal_mortality_cleaning_2021_2023_final.ipynb
+
+Cleans and aggregates CDC maternal mortality data.
+
+### 01_clean_hospital_general_information_final.ipynb
+
+Cleans CMS hospital data and produces state-year hospital metrics.
+
+### cdc_wonder_hospital_info_merged_visualizations.ipynb
+
+Merges datasets and generates:
+
+* Choropleth maps
+* Ranked disparity bar charts
+* Scatterplots (hospital access vs disparity)
+* Hospital quality maps
+
+---
+
+## Important Methodological Notes
+
+* Suppressed CDC counts were treated as missing.
+* Zero counts were retained.
+* 2021 hospital data reflect partial-year coverage (October–December).
+* No imputation was performed for missing hospital ratings or EHR reporting.
+
+---
+
+## Software Requirements
+
+* Python 3.x
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* geopandas
+* plotly (optional)
+* jupyter
+
+Install dependencies with:
+
+```
+pip install pandas numpy matplotlib seaborn geopandas plotly
+```
+
+---
+
+## Reproducibility
+
+CDC WONDER does not provide a permanent query URL.
+Extraction parameters are documented for manual replication in .
+
+All cleaned and merged datasets are included to avoid repeated manual extraction.
+
+---
+
+## Limitations
+
+* Analysis limited to 2021–2023
+* Hospital data reflect quarterly reporting snapshots
+* Maternal mortality calculated using crude (not age-adjusted) rates
+* State-level aggregation may mask within-state disparities
+
+---
+
+## Authors
+
+Samantha A. Salazar and Carter Pasternak
+SIADS 593 – Milestone I Project
+University of Michigan
+Master of Applied Data Science
+
+---
+
