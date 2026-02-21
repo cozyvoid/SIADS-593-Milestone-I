@@ -24,7 +24,7 @@ Are racial disparities in maternal mortality associated with differences in hosp
 ## Repository Structure
 
 ```
-project_root/
+src/
 │
 ├── data/
 │   ├── raw/
