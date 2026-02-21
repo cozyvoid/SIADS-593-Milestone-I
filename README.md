@@ -147,7 +147,6 @@ Merges datasets and generates:
 
 * Choropleth maps
 * Ranked disparity bar charts
-* Scatterplots (hospital access vs disparity)
 * Hospital quality maps
 
 ---
@@ -200,10 +199,10 @@ All cleaned and merged datasets are included to avoid repeated manual extraction
 
 ## Authors
 
-Samantha A. Salazar and Carter Pasternak
+Samantha A. Salazar
+Carter Pasternak
 SIADS 593 – Milestone I Project
-University of Michigan
-Master of Applied Data Science
+University of Michigan // Master of Applied Data Science
 
 ---
 
