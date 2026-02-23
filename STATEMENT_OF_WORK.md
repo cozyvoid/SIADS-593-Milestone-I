@@ -118,6 +118,7 @@ The project focuses on descriptive and exploratory analysis at the state-year le
 ### Carter Pasternak
 - State-level hospital metric construction
 - Choropleth map development
+- Bar chart creation
 - Visual integration into report
 - Contributing to Results interpretation
 
@@ -167,5 +168,5 @@ Both team members:
 ## Signatures
 
 Samantha Salazar: Samantha A. Salazar  
-Carter Pasternak: __________________ 
+Carter Pasternak: Carter R. Pasternak 
 Date: 02/20/2026
